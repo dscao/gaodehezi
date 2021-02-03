@@ -1,0 +1,9 @@
+{
+  "domain": "gaodehezi",
+  "name": "gaodehezi",
+  "documentation": "https://github.com/dscao/gaodehezi",
+  "dependencies": [
+    "zone"
+  ],
+  "codeowners": ["@dscao"]
+}
